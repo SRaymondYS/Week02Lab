@@ -28,6 +28,6 @@
         <br>
         Result: ${result}
         <br>
-        <a href="/age"> Age Calculator</a>
+        <a href="age"> Age Calculator</a>
     </body>
 </html>
